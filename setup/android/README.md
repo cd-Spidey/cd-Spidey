@@ -2,6 +2,13 @@
 - For Ubuntu 20.04 (or Latest)
 - Run:
   ```
-  git clone https://github.com/cd-Spidey/cd-Spidey/ ./buildenv
+  git clone https://github.com/cd-Spidey/cd-Spidey/ ./android
   sudo bash buildenv/setup/android/build_env.sh
+  ```
+## Install Java OpenJDK from Azul 
+- For Ubuntu 20.04 (or Latest)
+- run:
+  ```
+  git clone https://github.com/cd-Spidey/cd-Spidey/ ./android
+  sudo bash buildenv/setup/android/open_jdk.sh
   ```
